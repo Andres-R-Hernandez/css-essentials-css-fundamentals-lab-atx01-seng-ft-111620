@@ -12,7 +12,7 @@ body > header {
   text-align: center
 }
 
-header > nav {
+header > nav > a {
   padding-left:10px;
   padding-right:10px;
   background: grey
