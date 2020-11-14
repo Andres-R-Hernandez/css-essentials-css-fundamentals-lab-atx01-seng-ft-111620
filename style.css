@@ -10,7 +10,7 @@ body > header {
 
 #featured-property > figure {
   text-align: center;
-  font-size:20px
+  font-size:12px
 }
 
 header > nav > a {
@@ -23,12 +23,4 @@ header > nav > a {
 
 h1 {
   color: black;
-}
-
-nav {
-  padding:10px;
-}
-
-#details {
-  display:block
 }
