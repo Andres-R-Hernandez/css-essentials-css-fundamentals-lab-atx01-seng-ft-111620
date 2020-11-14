@@ -12,6 +12,10 @@ body > header {
   text-align: center
 }
 
+#featured-propert > figcaption {
+  font-size:8px
+}
+
 header > nav > a {
   padding-left:10px;
   padding-right:10px;
