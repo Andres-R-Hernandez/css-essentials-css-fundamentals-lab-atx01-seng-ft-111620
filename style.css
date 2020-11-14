@@ -11,5 +11,8 @@ h1 {
 
 nav {
   padding:10px;
+}
 
+#details {
+  display:block
 }
