@@ -16,6 +16,10 @@ body > header {
   font-size:12px
 }
 
+#featured-property > p {
+  width:800px
+}
+
 header > nav > a {
   padding-left:10px;
   padding-right:10px;
