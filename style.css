@@ -12,7 +12,9 @@ body > header {
   text-align: center
 }
 
-
+header > nav {
+  padding:10px
+}
 
 
 
