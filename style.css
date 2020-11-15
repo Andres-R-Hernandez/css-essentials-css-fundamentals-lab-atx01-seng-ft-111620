@@ -30,6 +30,9 @@ header > nav > a {
   display:block;
 }
 
+#details > div {
+  float:left;
+}
 
 h1 {
   color: black;
