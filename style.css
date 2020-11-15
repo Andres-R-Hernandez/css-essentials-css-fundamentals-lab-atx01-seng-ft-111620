@@ -26,6 +26,9 @@ header > nav > a {
   background: grey
 }
 
+#details {
+  display:block;
+}
 
 
 h1 {
