@@ -8,11 +8,9 @@ body > header {
   text-align: center
 }
 
-/*
 #featured-property {
-  text-align:center;
+  margin:center;
 }
-*/
 
 #featured-property > figure {
   font-size:12px
